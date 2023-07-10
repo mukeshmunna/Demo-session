@@ -6,7 +6,7 @@ namespace Demo_session
     {
         public static void Main(string[] args)
         {
-            Swap.num();
+            Vowels.vow();
         }
     }
 }
